@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-1
-=======
-3
->>>>>>> parent of d6f0ba6... Revert "3"
